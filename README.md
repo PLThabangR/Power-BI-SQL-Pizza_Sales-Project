@@ -10,11 +10,11 @@
 -   SQLL Queries for Top 5 & Bottom 5 
 
 # Data Visualization in power BI 
-## Connecting Power BI to SQL DB 
-## Data Cleaning using Power Query 
-## KPI's Building 
-## Data Processing in Power Bi  
-## Building Daily and Monthly Trend Charts 
-## Building % of Sales by Category & Size 
-## Adding Insights 02:17:30
-## Worst and Best Sellers Dashboard 
+- Connecting Power BI to SQL DB 
+- Data Cleaning using Power Query 
+- KPI's Building 
+- Data Processing in Power Bi  
+- Building Daily and Monthly Trend Charts 
+- Building % of Sales by Category & Size 
+- Adding Insights 02:17:30
+- Worst and Best Sellers Dashboard 
